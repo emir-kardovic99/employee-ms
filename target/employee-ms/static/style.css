@@ -1,0 +1,32 @@
+.src-wrapper {
+    margin: 20px 0;
+}
+
+.find-btn {
+    margin: 0 5px;
+}
+
+.inp-wrapper {
+    margin: 10px 0;
+}
+
+.inp-date {
+    display: flex;
+    justify-content: space-between;
+}
+
+.exp-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.plus {
+    background-color: #4FA850;
+    margin-right: 100px;
+    border-radius: 100%;
+}
+
+.employee-wrapper {
+    margin-top: 50px;
+}
